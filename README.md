@@ -2,4 +2,4 @@
 
 **Bu ödev içinde html dilinde öğrendiklerimizi tekrar ettik.**
 
-[Proje-goruntusu](/img/proje-resmi.png)
+![Proje Goruntusu](/img/proje-resmi.png)
